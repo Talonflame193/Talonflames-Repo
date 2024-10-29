@@ -1,4 +1,4 @@
-{
+Ist dieses Altstore json skript korrekt: {
     "apps": [
         {
             "beta": false,
@@ -8,7 +8,8 @@
             "iconURL": "https://magicbrawl.gg/images/mb-icon.png",
             "localizedDescription": "Magic Brawl is the rebirth of Brawl Stars and its best times! All content is available on the server: online battles, all the characters and everything. By downloading this server, you can get great pleasure from the updates, because we update the server every month!",
             "name": "Magic Brawl",
-          
+            "screenshotURLs": [
+                ""
             ],
             "size": 2184796,
             "subtitle": "A private server as the rebirth of Brawl Stars",
