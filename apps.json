@@ -1,10 +1,4 @@
 {
-    "name": "Talonflames Repo",
-    "identifier": "com.talon.flame",
-    "subtitle": "The AltStore source of Talonflame",
-    "description": "There are private server, modded apps and games.",
-    "iconURL": "https://media.idownloadblog.com/wp-content/uploads/2022/09/TrollStore-Logo.jpg",
-    "tintColor": "018084",
     "apps": [
         {
             "beta": false,
@@ -224,42 +218,6 @@
             "version": "57.325",
             "versionDate": "2024-09-24T14:22:04-00",
             "versionDescription": "• Added the ability to change age, unlocking the text chat\n\n• Differing in color (pink) clone Leon with special walking effects to distinguish him from a real\n\n• Added the ability to enable the inaccessible Modifier \"Mutations\", which will work in a friendly game\n\n• Returned the opportunity to invite players in a friendly game, not being the leader of the room\n\n• Returned the ability to use all buttons in readiness mode\n\n• Returned the ability to visually install a overflowing name in the profile, as with the purchased brace pass"
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.kdt.sparsebox",
-            "developerName": "khanhduytran0",
-            "downloadURL": "https://github.com/qbap/ONEJailbreak/raw/refs/heads/main/com.kdt.sparsebox_0.0.1.ipa",
-            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Z9-nKAd64MOuSrh4sLupTYaS9is6Fvt3ZA&s",
-            "localizedDescription": "On-device backup restoration?",
-            "name": "SparseBox",
-            "screenshotURLs": [
-                "https://preview.redd.it/sparsebox-the-on-device-sparserestore-exploit-toolbox-v0-zvbmi0fhflod1.png?width=889&format=png&auto=webp&s=ed57a51842cdcf53eafb77186924af3b4478e73c"
-            ],
-            "size": 2184796,
-            "subtitle": "On-device toolbox?",
-            "tintColor": "018084",
-            "version": "0.0.1",
-            "versionDate": "2024-10-01T00:00:00",
-            "versionDescription": ""
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "com.leemin.nugget",
-            "developerName": "leminlimez",
-            "downloadURL": "https://github.com/leminlimez/Nugget-Mobile/releases/download/v2.0/Nugget.ipa",
-            "iconURL": "https://github.com/leminlimez/Nugget-Mobile/raw/1881fdc2b721fd2675a2909e7fbc24769d11bb53/readme-images/icon.png",
-            "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4 with partial support for iOS 18.1 beta 5-6.\n\nThis will not work on iOS 18.1 beta 7 or newer. Please do not make issues about this, it will not be fixed. You will have to use the pc version of Nugget unless a fix comes in the future.\n\nA .mobiledevicepairing file and wireguard are required in order to use this. Read the sections below to see how to get those.\n\nIf you are having issues with minimuxer, see the Solving Minimuxer Issues thread.\n\nThis uses the sparserestore exploit to write to files outside of the intended restore location, like mobilegestalt.\n\nNote: I am not responsible if your device bootloops, use this software with caution. Please back up your data before using!",
-            "name": "Nugget-Mobile",
-            "screenshotURLs": [
-                ""
-            ],
-            "size": 2184796,
-            "subtitle": "iOS on-device version of Nugget",
-            "tintColor": "018084",
-            "version": "2.0",
-            "versionDate": "2024-10-16T00:00:00",
-            "versionDescription": "\n    Partial support for iOS 18.1 beta 5-6, ymmv\n        Minimuxer may or may not be problematic on these versions\n    Support for trollstore writing directly\n    Improved skip setup code\n\nMost likely the last Nugget mobile update.\n\nNote: This is not exactly recommended for iOS 18.1 beta 5+. Minimuxer has a lot of issues, especially with skip setup turned on."
         },
         {
             "beta": false,
