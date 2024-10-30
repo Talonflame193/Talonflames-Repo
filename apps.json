@@ -9,16 +9,16 @@
             "localizedDescription": "China Brawl!\nThis mod is based on themes and skins from the chinese version of brawl stars! \nIts on global servers too!",
             "name": "China Brawl",
             "screenshotURLs": [
-                "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-                "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-                "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+                "https://imag.malavida.com/mvimgbig/download-fs/brawl-stars-china-39129-9.jpg",
+                "https://pbs.twimg.com/media/GFTy0noa4AEMVjx.jpg",
+                "https://pbs.twimg.com/media/GRs9MsMaUAAPdqR.jpg:large"
             ],
             "size": 2184796,
             "subtitle": "A private chinese Brawl Stars server",
             "tintColor": "018084",
             "version": "1.3b2",
             "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+            "versionDescription": ""
         },
         {
             "beta": false,
@@ -29,7 +29,8 @@
             "localizedDescription": "Built-into Instagram\nRuns inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features.\nProfile Analyzer\nScans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).\nMedia Downloader\nDownloads any Instagram media, including posts, stories, reels, post audio, and direct messages.\nPrivacy\nView stories and read direct messages without sending seen receipts, Send them manually with a single tap.\nMessages\nKeep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.\nUtilities & Customization\nConfirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.",
             "name": "Regram for Instagram",
             "screenshotURLs": [
-                "https://regram.fouadraheb.com/assets/ss1-t9sGsrWC.png"
+                "https://regram.fouadraheb.com/assets/ss1-t9sGsrWC.png",
+                "https://regram.fouadraheb.com/images/banner.jpg"
             ],
             "size": 2184796,
             "subtitle": "Boost your Instagram with many privacy, analytics, and customization features.",
@@ -44,15 +45,14 @@
             "developerName": "level3tjg",
             "downloadURL": "https://github.com/apptesters-org/Repo/releases/download/30-07-2024/Twitch_20.5.2_Adblock_%40thisismanpreets_apptesters.org.ipa",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/Repo/main/icons/tv.twitch.png",
-            "localizedDescription": "",
+            "localizedDescription": "Injected with Adblock",
             "name": "Twitch",
             "screenshotURLs": [
-                "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-                "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-                "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+                "https://preview.redd.it/i-get-notifications-for-some-streams-but-not-for-others-im-v0-un0ip7s5hrgb1.jpg?width=640&crop=smart&auto=webp&s=4f41bcd6e5dbe80d7f202d160cbab652735f2255",
+                "https://addons.mozilla.org/user-media/previews/full/268/268243.png?modified=1649449187"
             ],
             "size": 2184796,
-            "subtitle": "Injected with Adblock",
+            "subtitle": "Ad blocker for Twitch iOS app",
             "tintColor": "018084",
             "version": "1.3b2",
             "versionDate": "2020-03-24T14:00:00-07:00",
@@ -76,7 +76,7 @@
             "tintColor": "018084",
             "version": "1.3b2",
             "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+            "versionDescription": ""
         },
         {
             "beta": false,
@@ -102,7 +102,7 @@
             "tintColor": "018084",
             "version": "1.3b2",
             "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+            "versionDescription": ""
         },
         {
             "beta": false,
@@ -113,19 +113,21 @@
             "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
             "name": "EeveeSpotify",
             "screenshotURLs": [
-                "https://i.redd.it/swunthvobszc1.jpeg"
+                "https://tweakdoor.com/wp-content/uploads/2024/07/eeveespotify-tweak-720x0-is.jpg.webp",
+                "https://pbs.twimg.com/media/GY8N28FbAAUkDbf.jpg",
+                "https://onejailbreak.com/site/assets/files/2089/eeveespotify-3.png"
             ],
             "size": 2184796,
             "subtitle": "A tweak to get Spotify Premium for free, just like Spotilife ",
             "tintColor": "018084",
             "version": "1.3b2",
             "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+            "versionDescription": ""
         },
         {
             "beta": false,
             "bundleIdentifier": "lo.cafe.winston",
-            "developerName": "Riley Testut",
+            "developerName": "lo.cafe",
             "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.5/winston.ipa",
             "iconURL": "https://lo.cafe/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwinston.dff70526.png&w=256&q=75",
             "localizedDescription": "Step into Winston's embracing world! Winston is an elegant, open-source, native crafted Reddit client for iOS that pushes user experience to the next level.",
@@ -140,31 +142,32 @@
             "tintColor": "018084",
             "version": "1.3b2",
             "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+            "versionDescription": ""
         },
         {
             "beta": false,
             "bundleIdentifier": "nt.nb.ios",
-            "developerName": "Null's",
+            "developerName": "Null's Team",
             "downloadURL": "https://dnull.xyz/latest_bs_i",
             "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
             "localizedDescription": "Main Features:\n\n    Clubs\n    Multiplayer\n    Ranked Mode competition\n    Friend List\n    Global and Local leaderboards\n    Special Offers are available in the Shop\n    All Brawlers can be unlocked\n    All skins, sprays, pins, gadgets, star powers, gears and hypercharges are available to use\n    Null’s Connect\n    Replays\n    Brawl TV\n    Brawl Pass rewards are available\n    Friendly battles\n    Exclusive settings for friendly battles\n    Classic, special and hidden gamemodes are available to play\n    Map Maker\n    Exclusive modifiers\n",
             "name": "Null's Brawl",
             "screenshotURLs": [
+                "https://image.winudf.com/v2/user/admin/YWRtaW5fU2NyZWVuc2hvdF8yMDIyMDQxMi0xMTA5MzMucG5nXzE2NDk3MzMxNjExODg/screen-0.jpg?fakeurl=1&type=.jpg",
                 "https://imag.malavida.com/mvimgbig/download-fs/nulls-brawl-22995-2.jpg",
-                "https://nullsbrawl.de/wp-content/uploads/2024/05/shop.jpg"
+                "https://nullbrawl.org/wp-content/uploads/2024/07/Nullsbrawl-Android-768x346.webp"
             ],
             "size": 2184796,
             "subtitle": "Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.",
             "tintColor": "018084",
             "version": "1.3b2",
             "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+            "versionDescription": ""
         },
         {
             "beta": false,
-            "bundleIdentifier": "com.rileytestut.AltStore.Beta",
-            "developerName": "Null's",
+            "bundleIdentifier": "nt.nr.ios",
+            "developerName": "Null's Team",
             "downloadURL": "https://dnull.xyz/latest_cr_i",
             "iconURL": "https://nulls.gg/assets/img/nr-icon.png",
             "localizedDescription": "Main Features:\n\n    Clans\n    PvP\n    2v2\n    Special, party and friendly gamemodes\n    Null’s Legacy gamemode with our own custom cards\n    Special Offers are available in             the Shop\n    Global and Local leaderboards\n    Trophy Road\n    All new cards, chests, arenas, \n    tower skins\n    Replays\n    Null’s Connect\n    Champions\n",
@@ -179,27 +182,27 @@
             "tintColor": "018084",
             "version": "8.256.22",
             "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "** Requires latest AltServer beta to fully work. Download from https://altstore.io/altserver/beta **\n\nThe next big beta feature is here: AltStore now supports 3rd party app sources! Add sources in the Browse tab to expand the number of apps available to download through AltStore.\n\nNEW FEATURES\n• Initial support for 3rd party sources\n• Activate and deactivate apps via drag & drop\n• Option to remove app extensions from apps to save active app slots\n\nBUG FIXES\n• Fixes issue causing .ipa files to appear disabled in document picker\n• Fixes issue causing refreshing to sometimes not finish when using older AltServer\n• Fixes \"invalid app group\" error when installing apps\n• Removes cached apps after they have been uninstalled\n• Fixes peek & pop on iOS 12\n\nPREVIOUS BETA\n• Adds support for activating/deactivating apps to stay under iOS 13.3.1 active app limit\n• Significantly improves performance when refreshing apps\n• Improves error messages when refreshing apps\n• Improves stability when refreshing apps over WiFi\n\nNOTE: Support for 3rd party sources will be disabled in public versions of AltStore until it is finished."
+            "versionDescription": ""
         },
         {
             "beta": false,
             "bundleIdentifier": "nt.nc.ios",
-            "developerName": "Null's",
+            "developerName": "Null's Team",
             "downloadURL": "https://dnull.xyz/latest_coc_i",
             "iconURL": "https://nulls.gg/assets/img/nc-icon.png",
-            "localizedDescription": "Main Features:\n\n    Clans\n    PvP and PvE\n    Challenges and self-attacking\n    Clan Wars\n    Commands\n    Siege Machines\n    Builder Base\n    Clan Capital\n    TH 15\n    Null’s Connect\n    Super Troops\n    Pets\n",
+            "localizedDescription": "Main Features:\n\n    Clans\n    PvP and PvE\n    Challenges and self-attacking\n    Clan Wars\n    Commands\n    Siege Machines\n    Builder Base\n    Clan Capital\n    TH 15\n    Null’s Connect\n    Super Troops\n    Pets\n\nSelf-attacks and Friendly Challenges are not available for 24h during you choose new layout or editing current layout.\n",
             "name": "Null's Clash",
             "screenshotURLs": [
-                "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
-                "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
-                "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+                "https://image.winudf.com/v2/image1/bnVsbHNjbGFzaC5uaWdodC5yZWxfMTY2NzI3NTU3MV8wOTk/screen-2.jpg?fakeurl=1&type=.jpg",
+                "https://sun9-22.userapi.com/s/v1/ig2/DrC7Fjbfjcg-TkkO8LMhclVLl-ZiL0irEBMgJEaW7mXaTJarm8rBlRmsaUlXJlrGA-t4qiZDqItJPouFyq6z8V6s.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,800x450&from=bu&u=AZqtt5PbvcVq2BiFat9kTfhwuFTNr57C4MoMWnxSK_o&cs=800x450",
+                "https://dl.memuplay.com/new_market/img/nullsclash.night.rel.sc3.2023-05-25-09-47-12.jpg"
             ],
             "size": 2184796,
             "subtitle": "Null’s Clash is an unofficial game server with unlimited gems and gold.",
             "tintColor": "018084",
             "version": "16.386.9",
             "versionDate": "2024-03-24T14:00:00-07:00",
-            "versionDescription": "Main Features:\n\n    Clans\n    PvP and PvE\n    Challenges and self-attacking\n    Clan Wars\n    Commands\n    Siege Machines\n    Builder Base\n    Clan Capital\n    TH 15\n    Null’s Connect\n    Super Troops\n    Pets\n\nSelf-attacks and Friendly Challenges are not available for 24h during you choose new layout or editing current layout."
+            "versionDescription": ""
         },
         {
             "beta": false,
@@ -210,7 +213,9 @@
             "localizedDescription": "BSD Brawl is a modified version of Brawl Stars, featuring a MOD menu to customize and personalize the Brawl Stars to your taste. It’s also known as Brawl Stars Datamines. You can change the FPS and graphics according to your device, select the server with the best ping, check your brawling stats, change the background & theme, disable highlights after the battle, unlock all pins for chats, and much more.\n\nIt can change the brawler skins visually. These skin models & texture changes will only appear for you on your device while other players can’t see these changes, because it’s only client-side changes. It also prevents you from getting banned, and you can play on official Brawl Stars servers with your main account. The new versions are regularly released to keep up with the official BS’s latest updates, fix bugs if any, and add new MOD features.",
             "name": "BSD Brawl",
             "screenshotURLs": [
-                ""
+                "https://dogas.info/wp-content/uploads/2024/03/BSD-Brawl-apk-latest-version.jpg",
+                "https://apkrabi.com/uploads/2024/1/bsd-brawl-4.jpg",
+                "https://i.ytimg.com/vi/Ee6Gk91P_v0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDQw9QCDj7Q0QGRxGTC1C45hxZyVA"
             ],
             "size": 2184796,
             "subtitle": "BSD Brawl is a modified version of Brawl Stars",
@@ -225,7 +230,7 @@
             "developerName": "yandevelop",
             "downloadURL": "https://github.com/yandevelop/Bea/releases/download/1.3.8/BeReal._2.14.2+com.yan.bea_1.3.8_iphoneos-arm_jailed.deb.ipa",
             "iconURL": "https://upload.wikimedia.org/wikipedia/en/4/40/BeReal_logo.png?20220421171545",
-            "localizedDescription": "View BeReals without posting your own\nUpload BeReals from the camera roll:\n- Post on time, even if you're posting late\n- Set a custom location\n- Set a custom retake count\n- Add what you're currently playing or       add a song\nDownload BeReals",
+            "localizedDescription": "View BeReals without posting your own\nUpload BeReals from the camera roll:\n- Post on time, even if you're posting late\n- Set a custom location\n- Set a custom retake count\n- Add what you're currently playing or                  add a song\nDownload BeReals",
             "name": "Bea",
             "screenshotURLs": [
                 "https://media.havoc.app/64cf6f6b5e96af954cf67dc2",
@@ -237,7 +242,7 @@
             "tintColor": "018084",
             "version": "1.3.8",
             "versionDate": "2024-05-29T00:00:00",
-            "versionDescription": "Note\n\nBeReal removed the native Unblur function utilized by Bea starting from version 1.22. Bea will still work on versions up to 2.14.2, however you won't be able to react and comment on BeReals.\nIf you are unable to post and get an API error, try posting without setting a caption. This should fix the issue in the meantime\nBug fixes\n\nFix login issues when sideloading via a service that changes the bundle id of BeReal. to something else (e.g. AltStore, Sideloadly) #24, #42, #29\nMiscellaneous\n\nAdd warning for unsupported BeReal. versions (2.15+)"
+            "versionDescription": "\nBeReal removed the native Unblur function utilized by Bea starting from version 1.22. Bea will still work on versions up to 2.14.2, however you won't be able to react and comment on BeReals.\nIf you are unable to post and get an API error, try posting without setting a caption. This should fix the issue in the meantime\nBug fixes\n\nFix login issues when sideloading via a service that changes the bundle id of BeReal. to something else (e.g. AltStore, Sideloadly) #24, #42, #29\nMiscellaneous\n\nAdd warning for unsupported BeReal. versions (2.15+)"
         },
         {
             "beta": false,
@@ -248,7 +253,9 @@
             "localizedDescription": "Retro Brawl is the old version of Brawl Stars (2018). Online battles, 21 characters and star powers for them, clans, etc. are available on the server. Feel better times, from the old menu to the atmosphere",
             "name": "Retro Brawl",
             "screenshotURLs": [
-                ""
+                "https://imag.malavida.com/mvimgbig/download-fs/retro-brawl-31648-4.jpg",
+                "https://imag.malavida.com/mvimgbig/download-fs/retro-brawl-31648-3.jpg",
+                "https://imag.malavida.com/mvimgbig/download-fs/retro-brawl-31648-1.jpg"
             ],
             "size": 2184796,
             "subtitle": "The old version of Brawl Stars (2018)",
@@ -266,18 +273,20 @@
             "localizedDescription": "Magic Brawl is the rebirth of Brawl Stars and its best times! All content is available on the server: online battles, all the characters and everything. By downloading this server, you can get great pleasure from the updates, because we update the server every month!",
             "name": "Magic Brawl",
             "screenshotURLs": [
-                ""
+                "https://imag.malavida.com/mvimgbig/download-fs/magic-brawl-39725-14.jpg",
+                "https://imag.malavida.com/mvimgbig/download-fs/magic-brawl-39725-3.jpg",
+                "https://assets.apk.live/com.magics.brawl--41150-screenshot1.webp"
             ],
             "size": 2184796,
             "subtitle": "A private server as the rebirth of Brawl Stars",
             "tintColor": "018084",
             "version": "44.242",
             "versionDate": "2024-10-11T13:58:00",
-            "versionDescription": "Update with Season 13 - DEEP SEA! 🌊\n\nThis update adds one character, Otis, he will be available in Brawl Pass, priced at 169 gems. \n\nUnique author pins and sprays will be available in the store throughout the update at a price of 29 gems, as well as many skins.\n\nHunters mode has been added, it will be available in rotation on weekends. Replays have been added (they will be available from 100 trophies on a character), as well as displaying online players from the club. \n\nGiveaway week starts tomorrow, be sure to log in to the game every day so you don't miss out on the giveaways!\n"
+            "versionDescription": ""
         }
     ],
     "identifier": "com.talon.flame",
-    "name": "Talonflames Repo",
+    "name": "Talonflame's Repo",
     "news": [],
     "userInfo": {}
 }
