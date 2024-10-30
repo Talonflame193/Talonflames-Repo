@@ -1,9 +1,9 @@
 {
     "name": "Talonflames Repo",
     "identifier": "com.talon.flame",
-    "subtitle": "AltStore source with various modded apps.",
-    "description": "A source with modded apps for AltStore.",
-    "iconURL": "https://example.com/icon.png",
+    "subtitle": "The AltStore source of Talonflame",
+    "description": "There are private server, modded apps and games.",
+    "iconURL": "https://media.idownloadblog.com/wp-content/uploads/2022/09/TrollStore-Logo.jpg",
     "tintColor": "018084",
     "apps": [
         {
@@ -11,12 +11,12 @@
             "name": "EeveeSpotify",
             "bundleIdentifier": "com.spotify.client",
             "developerName": "whoeevee",
-            "subtitle": "Spotify Premium features",
-            "version": "1.3b2",
+            "subtitle": "A tweak to get Spotify Premium for free, just like Spotilife",
+            "version": "8.9.86",
             "size": 2184796,
             "versionDate": "2020-03-24T14:00:00-07:00",
             "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.7/EeveeSpotify-5.7-8.9.86.ipa",
-            "localizedDescription": "Grants premium Spotify features.",
+            "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
             "iconURL": "https://cdn.jim-nielsen.com/ios/512/spotify-music-2015-07-30.png?rf=1024",
             "screenshotURLs": [
                 "https://i.redd.it/swunthvobszc1.jpeg"
