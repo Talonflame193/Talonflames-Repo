@@ -1,0 +1,26 @@
+{
+    "name": "Talonflames Repo",
+    "identifier": "com.talon.flame",
+    "subtitle": "AltStore source with various modded apps.",
+    "description": "A source with modded apps for AltStore.",
+    "iconURL": "https://example.com/icon.png",
+    "tintColor": "018084",
+    "apps": [
+        {
+            "id": "eeveespotify",
+            "name": "EeveeSpotify",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "whoeevee",
+            "subtitle": "Spotify Premium features",
+            "version": "1.3b2",
+            "size": 2184796,
+            "versionDate": "2020-03-24T14:00:00-07:00",
+            "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.7/EeveeSpotify-5.7-8.9.86.ipa",
+            "localizedDescription": "Grants premium Spotify features.",
+            "iconURL": "https://cdn.jim-nielsen.com/ios/512/spotify-music-2015-07-30.png?rf=1024",
+            "screenshotURLs": [
+                "https://i.redd.it/swunthvobszc1.jpeg"
+            ]
+        }
+    ]
+}
