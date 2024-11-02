@@ -2,6 +2,86 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "com.headupgames.bridgeconstructor-arcade",
+            "developerName": "Headup GmbH",
+            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v5.6/Bridge_Constr+-13.1.662.ipa",
+            "iconURL": "https://images.sftcdn.net/images/t_app-icon-m/p/7d3cfa8a-7b89-440f-8148-80a26ec4f3ea/3528674017/bridge-constructor-ezw-logo",
+            "localizedDescription": "In Bridge Constructor+ you have to prove yourself as an accomplished master bridge builder. Play 40 different levels, and build bridges over deep valleys, canals, and rivers. Stress tests reveal whether the bridge you build can withstand the daily stress of continual use from cars, trucks and, more recently, super-heavy tank trucks.\n\n\n\n\n\nYou can choose from a range of materials for each individual bridge, such as wood, steel, cables, or concrete pillars. Use the appropriate materials and stay within budget to build the perfect bridge. The choice of different materials means that there are numerous solutions and approaches and you can build each bridge in any number of ways – your budget is the only limit. The refined grid system allows you to realise your idea of the perfect bridge with even more precision. Let your imagination and creativity run free! And if you happen to run into a dead end, you can pick up valuable tips from the help system!\n\n\n\nIncluding awesome Add-Ons: SlopeMania & Trains\n\nIn the SlopeMania add-on you find yourself on the Tiltin Islands, home to three brand new islands where you'll even be building your bridges inside colorful grottoes! The 24 tricky, never-before-seen levels will have you using sloping lanes to overcome the massive height differences. The \"Crazy Levels\" are the real brainteasers and require out-of-the-box thinking and unusual solutions.\n\n\n\nVisit the Choonited Kingdom island group in the Trains add-on, with a total of 18 new levels across three islands. Build massive bridges that can withstand the enormous weight of the two new vehicles on offer – a commuter train and a heavily loaded freight train. The idyllic and beautifully designed landscapes will make the heart of every railroad fanatic skip a beat.\n\n\n\n\nFEATURES:\n\n• 40 Levels on the island nation of Camatuga\n\n• Free build mode and help system\n\n• 5 Settings: city, canyon, beach, mountains, hills\n\n• Improved grid system\n\n• Map with unlocked worlds/levels\n\n• 4 different building materials: wood, steel, cables, concrete pillars\n\n• Color coded load indicator for different building materials\n\n• Three different load bearing levels: car, truck and tank truck\n\n• High score per level\n\n\n\n\n\n\nFEATURES SlopeMania Add-On\n\n• Completely new Tiltin Islands\n\n• Option to build sloping roads – even for Camatuga\n\n• Additional \"Grotto\" setting\n\n• 24 \"sloping\" levels inc. especially tricky \"Crazy Levels\"\n\n• Explosive tank truck as an exciting new vehicle\n\n\n\n\nFEATURES Trains Add-On\n\n• Open up 3 new islands with 18 new levels.\n\n• Build bridges for modern commuter trains and heavy freight trains!\n\n• New scenery: Enjoy the view of picturesque mountains and ravines!",
+            "name": "Bridge Constructor+",
+            "screenshotURLs": [
+                "https://i.ytimg.com/vi/61Swwv4gkBE/maxresdefault.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/48/f3/56/48f356e9-90c3-9e0d-aab7-7cf9f274aae7/ae1f8b8c-5892-4daa-857c-9a7e9069700c_StoreShot_Build_2048x1536_DE_2732x2048.jpg/643x0w.jpg",
+                "https://www.cnet.com/a/img/resize/be66e7007c9902ed906df513294765953890a753/hub/2022/02/04/5a87dec2-0d13-42b6-8152-a48166b888fd/bridge-constructor-apple-arcade.jpg?auto=webp&fit=crop&height=675&width=1200"
+            ],
+            "size": 2184796,
+            "subtitle": "The #1 bridge buidling game",
+            "tintColor": "018084",
+            "version": "13.1",
+            "versionDate": "2024-09-14T00:00:00",
+            "versionDescription": "- tutorial improvements"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.dinopoloclub.minimotorways",
+            "developerName": "Dinosaur Polo Club",
+            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v5.6/Mini_Motorways-1.14.1.ipa",
+            "iconURL": "https://image.winudf.com/v2/image1/MjE3OTI3MzVfMTcxODE2MzgwOV8wNjY/screen-0.png?fakeurl=1&type=png",
+            "localizedDescription": "Have you ever been stuck in traffic and wished you could do something to fix it? In Mini Motorways, the city’s traffic problems are in your hands.\n\nFrom the makers of Mini Metro, Mini Motorways is a game about drawing the roads that drive a growing city. Build a road network, one road at a time, to create a bustling metropolis. Redesign your city to keep the traffic flowing, and carefully manage upgrades to meet the changing demands. How long can you keep the cities of the world moving?\n\nFeatures:\n\n• Draw roads in dynamic cities that grow and change - every game is unique!\n\n• Explore stunning maps inspired by cities all around the world.\n\n• Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!\n\n• Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.\n\n• Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.\n\n• Select different colour palettes on every map including colourblind and night modes.\n\n• Relax to a responsive soundtrack from Disasterpeace that grows along with your city.\n\n• Unlock new maps and achievements as you achieve mastery.\n\n• Export GIFs of your city layouts to share with your friends.\n\n• Compete against other players in Daily and Weekly Challenges.\n\n• Compatible with Siri Remote, Bluetooth and MFi controllers.",
+            "name": "Mini Motorways",
+            "screenshotURLs": [
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c4/4f/46/c44f4698-fade-459f-585c-7c894b74cada/74d9d7a6-dd59-490d-a415-53a2220d77b1_English__U0028US_U0029-AppleTV-3840x2160-EE-Update.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/72/2e/f5/722ef5b6-7bcc-f6f7-1cf3-c9cd26038bd7/cdaf3237-bc9d-4d81-acfb-8aafd73ba080_Deutsch-iPad_12.9_U0027_U0027-2732x2048-EE-Update.png/643x0w.jpg",
+                "https://www.appgefahren.de/wp-content/uploads/2024/06/Mini-Motorways-vancouver-karte.jpg"
+            ],
+            "size": 2184796,
+            "subtitle": "Draw roads that drive the city",
+            "tintColor": "018084",
+            "version": "1.14.1",
+            "versionDate": "2024-06-11T00:00:00",
+            "versionDescription": "Sea to Sky Update\n\nPack your umbrella and hiking boots because we're off to Vancouver in our latest update to Mini Motorways! Nestled amongst the rugged Canadian coast of British Columbia, this coastal metropolis is home to narrow waterways, rugged mountains and lush parks. It’s up to you how you manage the city’s unique geography to keep the traffic along these Maple Motorways.\n\nThis update to Mini Motorways includes:\n\n• A brand new map! Take a trip to the west coast of Canada and explore the highly-requested city of Vancouver, our latest Mini Motorways map.\n\n• New Achievements, Daily Challenges, Weekly Challenges, and City Challenges.\n\n• Various minor bug fixes and performance improvements.\n\n• Updated in-game button with a new look and feel."
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.ubisoft.raymanair",
+            "developerName": "Ubisoft",
+            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v5.6/Rayman-4.0.ipa",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/64/4c/47644cf9-c013-e61e-bd69-572045db1f87/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+            "localizedDescription": "Rayman has been shrunk to the size of an ant! To undo this spell, insects, mushrooms, leaves, and other plants will be your allies as you find your way through a wonderful, macro-photographic world.\n\nFrom a gorgeous river to a spider nest or the deep recesses of a tree, Rayman Mini thrusts players into a rich, natural environment through exciting 48 levels.\n\nRayman Mini is a runner platforming game for the whole family! It offers a fun, fast-paced experience that lets players set their own pace. Go for a simple run or try the challenge of getting the perfect score!\n\nTo get through this super-sized world, it’s all about getting the right rhythm in the quest for the perfect flow. Use your honed reflexes, memorize the maps and replay the level as many times as you want… who knows, you might just find some hidden secrets!\n\nChoose between 3 characters and unlock tons of different costumes to customize your experience.\n\nThis is just the beginning of your Rayman Mini journey… Stay tuned for more miniaturized fun!",
+            "name": "Rayman Mini",
+            "screenshotURLs": [
+                "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7zKPzOPLTjecj4nPmoRFvS/94bba06630af9d2172b2cf9694c07694/ubicom-rayman_mini-page_meta-THUMB-960x540.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a4/8e/4c/a48e4c7f-da0a-0ab5-5732-6c9db3127b93/pr_source.jpg/643x0w.jpg",
+                "https://www.beyondpixels.at/wp-content/uploads/2019/09/Rayman-Mini-Arcade-test-review-beyond-pixels-5.jpg"
+            ],
+            "size": 2184796,
+            "subtitle": "New epic journey for your hero",
+            "tintColor": "018084",
+            "version": "1.4.4",
+            "versionDate": "2023-10-24T00:00:00",
+            "versionDescription": "Various bug fixes and performance improvements"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.lego.games.brawls",
+            "developerName": "LEGO",
+            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v5.6/Brawls-5.6.0.ipa",
+            "iconURL": "https://image.winudf.com/v2/image1/MjE3OTk0NjhfMTcwNjI4MjIxNV8wNzI/screen-0.png?fakeurl=1&type=png",
+            "localizedDescription": "Build your way to the top in this lighthearted, team action brawler where anything can happen.\n\n• Design your own heroic minifigure with unique brawling abilities!\n\n• Build ridiculous power-ups out of bricks!\n\n• Work with your team to control iconic LEGO levels!\n\n• Compete in 8 different arenas, including classic favorites like Castle and newcomers like Jurassic World!\n\n• Expand your collection of minifigs and power-ups!\n\n• Become the ultimate brawler!",
+            "name": "LEGO® Brawls",
+            "screenshotURLs": [
+                "https://static1.squarespace.com/static/61e9c247ef6438235e0b91db/t/62ed8d003f6c6f2bf1992f58/1644288100246/LEGO+Brawls+-+Key+Art.png?format=1500w",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/81/15/6f/81156f37-1915-f0a6-f2a1-4d1474d45b38/c72884fa-d766-44bf-a292-ca86bf502325_7-Western.png/643x0w.jpg",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b5/0e/0c/b50e0ca3-2bdd-b3ac-d0c7-6539204a7c38/f2463f8b-4dfe-4fb2-b9c0-82453ba628b0_3-LB-FFB-AppStore-iPad-EN.png/643x0w.jpg"
+            ],
+            "size": 2184796,
+            "subtitle": "Battle with friends online",
+            "tintColor": "018084",
+            "version": "5.6",
+            "versionDate": "2024-01-02T00:00:00",
+            "versionDescription": "• General performance improvements\n• Bug fixes"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.supercell.laser",
             "developerName": "Tencent",
             "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
