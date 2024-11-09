@@ -42,26 +42,6 @@
         },
         {
             "beta": false,
-            "bundleIdentifier": "com.supercell.laser",
-            "developerName": "Tencent",
-            "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
-            "iconURL": "https://play-lh.googleusercontent.com/_vDz2dbDEPcE0vYKED3Qi5bVo_C2E-w0ceVdrDJ9Ey52ExYgIRv_TFTb7AF-oS5sRw=s96",
-            "localizedDescription": "China Brawl!\nThis mod is based on themes and skins from the chinese version of brawl stars! \nIts on global servers too!",
-            "name": "China Brawl",
-            "screenshotURLs": [
-                "https://imag.malavida.com/mvimgbig/download-fs/brawl-stars-china-39129-9.jpg",
-                "https://pbs.twimg.com/media/GFTy0noa4AEMVjx.jpg",
-                "https://pbs.twimg.com/media/GRs9MsMaUAAPdqR.jpg:large"
-            ],
-            "size": 2184796,
-            "subtitle": "A private chinese Brawl Stars server",
-            "tintColor": "018084",
-            "version": "57.325",
-            "versionDate": "2024-10-17T14:00:00-07:00",
-            "versionDescription": ""
-        },
-        {
-            "beta": false,
             "bundleIdentifier": "nt.nb.ios",
             "developerName": "Null's Team",
             "downloadURL": "https://dnull.xyz/latest_bs_i",
