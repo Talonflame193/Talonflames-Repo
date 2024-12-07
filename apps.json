@@ -104,7 +104,7 @@
             "beta": false,
             "bundleIdentifier": "bsd.suitcase.release",
             "developerName": "heedge",
-            "downloadURL": "https://bsdbrawl.com/bsd_brawl_v57.325_(26).ipa",
+            "downloadURL": "https://bsdbrawl.com/bsd_brawl_v58.279_(27).ipa",
             "iconURL": "https://play-lh.googleusercontent.com/_vDz2dbDEPcE0vYKED3Qi5bVo_C2E-w0ceVdrDJ9Ey52ExYgIRv_TFTb7AF-oS5sRw=s96",
             "localizedDescription": "BSD Brawl is a modified version of Brawl Stars, featuring a MOD menu to customize and personalize the Brawl Stars to your taste. It’s also known as Brawl Stars Datamines. You can change the FPS and graphics according to your device, select the server with the best ping, check your brawling stats, change the background & theme, disable highlights after the battle, unlock all pins for chats, and much more.\n\nIt can change the brawler skins visually. These skin models & texture changes will only appear for you on your device while other players can’t see these changes, because it’s only client-side changes. It also prevents you from getting banned, and you can play on official Brawl Stars servers with your main account. The new versions are regularly released to keep up with the official BS’s latest updates, fix bugs if any, and add new MOD features.",
             "name": "BSD Brawl",
@@ -116,7 +116,7 @@
             "size": 2184796,
             "subtitle": "BSD Brawl is a modified version of Brawl Stars",
             "tintColor": "018084",
-            "version": "57.325",
+            "version": "58.279",
             "versionDate": "2024-09-24T14:22:04-00",
             "versionDescription": "• Added the ability to change age, unlocking the text chat\n\n• Differing in color (pink) clone Leon with special walking effects to distinguish him from a real\n\n• Added the ability to enable the inaccessible Modifier \"Mutations\", which will work in a friendly game\n\n• Returned the opportunity to invite players in a friendly game, not being the leader of the room\n\n• Returned the ability to use all buttons in readiness mode\n\n• Returned the ability to visually install a overflowing name in the profile, as with the purchased brace pass"
         },
