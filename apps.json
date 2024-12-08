@@ -2,6 +2,86 @@
     "apps": [
         {
             "beta": false,
+            "bundleIdentifier": "org.resonance.store",
+            "developerName": "Resonance Team",
+            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/org.resonance.store_2.3_082724.ipa",
+            "iconURL": "https://raw.githubusercontent.com/TrollApps-Team/.github/main/TrollAppsIcon-macOS.png",
+            "localizedDescription": "TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.",
+            "name": "TrollApps",
+            "screenshotURLs": [
+                "https://media.idownloadblog.com/wp-content/uploads/2022/11/TrollApps.jpg",
+                "https://media.idownloadblog.com/wp-content/uploads/2022/11/TrollApps-v1.1-with-refreshed-UI.jpg",
+                "https://pbs.twimg.com/media/FpcL8ABXsAEClU1?format=jpg&name=4096x4096"
+            ],
+            "size": 2184796,
+            "subtitle": "App Store alternative for TrollStore",
+            "tintColor": "018084",
+            "version": "2.3",
+            "versionDate": "2020-03-24T14:00:00-07:00",
+            "versionDescription": "Skipped 2.2\n\nUpdated acknowledgements\n\nMinor UI improvements (fixed some typos and missing localizations)\n\nAll previous changes from 2.2/2.3 betas:\n\nFixed bottom sheet appearing in a small size with improper width on both \"Whats New\" sheet, and the queue.\n\nFixed \"Browse\" tab showing up improperly on iPad\n\nAdded text when the queue is processing explaining that installs may look frozen for large apps, but to allow a minute for processing.\n\nAdded a few (very small, 0.3 seconds) pauses before uninstalls / installs to allow for animations to properly play\n\nApp icons no longer flicker in the install queue\n\nFixed queue sheet UI issues\n\nFixed application descriptions not being expandable\n\nFixed a crash that would result when attempting to install large ipa files\n\nFixed multiple apps showing \"QUEUED\" when adding one app to the queue if they shared the same bundle ID\n\nIf you're coming from 2.1 or earlier, you may notice a few new additions:\n\nInstall queue\nAbility to uninstall apps\n\"What's New\" popup when opening the app after an update\nCompact sources view option for users with many repos\nYou can now add sources via the clipboard"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.sp67.flero",
+            "developerName": "speedyfriend67 ",
+            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/flero.v0.0.6.ipa",
+            "iconURL": "https://flero.pages.dev/_app/immutable/assets/flero.C1k2Qq-1.png",
+            "localizedDescription": "Well well well. The Best FREE gd iOS mod menu just arrived! It calls 'Flero Client' which has more than 50+ mods No jailbreak needed, no JIT NEEDED, User-Friendly ImGui UI! \n\nOur Top 5 Mods are\n\nClick Between Frame (now turned into Click On Steps)\n\nMenu shader (yes you can get menu shaders on iOS EXCLUSIVELY)\n\nIn-Game Texture Pack Switcher (High Graphics Support Coming Soon....)\n\nCustomizable Colors (icons, primary, trail, etc)\n\nClick Sounds! (You can import click packs!!)",
+            "name": "Flero",
+            "screenshotURLs": [
+                "https://i.ytimg.com/vi/fCbnhxK9-tU/sddefault.jpg?v=673d6b07",
+                "https://i.ytimg.com/vi/_I7p-GTAG0I/maxresdefault.jpg",
+                "https://i.ytimg.com/vi/CYaDWYAFLIM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAolcjA30fbIih1BQds1Nu1TMs3RA"
+            ],
+            "size": 2184796,
+            "subtitle": "No JB No JIT iOS Mod Menu for Geometry Dash",
+            "tintColor": "018084",
+            "version": "0.0.6",
+            "versionDate": "2024-12-01T00:00:00",
+            "versionDescription": "2.207 Port\n\nMusic Customizer\n\nPractice Music Sync\n\n120 FPS Cap 🧢 (60hz devices : only supports 15, 30, 60 // 120hz devices : up to 80, 120)\n\nArranged Songs & SFX Folders"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.disney.castleofillusion",
+            "developerName": "Riley Testut",
+            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/Castle-1.4.5.ipa",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b5/29/80/b5298079-09e4-b282-a766-10a846718ada/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+            "localizedDescription": "PLAY AS MICKEY IN THIS MAGICAL DISNEY ADVENTURE! ALL-NEW HD GRAPHICS AND GAMEPLAY!\n\nThis app is optimized for iPhone 4S/iPad3 and above.\n\nMickey Mouse returns to star in Castle of Illusion, a fantastical reimagining of the Sega Genesis classic. When the evil witch Mizrabel kidnaps Minnie, it’s up to Mickey to brave the dangers of the Castle of Illusions to rescue Minnie. Gather your courage and traverse enchanted forests, take on hordes of rebellious toys and navigate mazes of living books. Play as Mickey and save Minnie from Mizrabel’s evil clutches!\n\nGAME FEATURES –\n\n-Play as Mickey Mouse in this reimagining of the classic Sega Genesis/Mega Drive game!\n\n-Experience a world of wonder, brought to life with all-new graphics and magical adventures!\n\n-Journey across five magical worlds filled with Mizrabel’s powerful minions!\n\n-Complete hidden challenges to customize Mickey with classic costumes!",
+            "name": "Castle of Illusion",
+            "screenshotURLs": [
+                "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/227600/header.jpg?t=1625781778",
+                "https://imageio.forbes.com/b-i-forbesimg/andyrobertson/files/2013/11/forbesmickey.jpg?height=304&width=600&fit=bounds",
+                "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2018/04/castle-of-illusion.jpg?resize=1200%2C628&ssl=1"
+            ],
+            "size": 2184796,
+            "subtitle": "Starring Mickey Mouse",
+            "tintColor": "018084",
+            "version": "1.4.5",
+            "versionDate": "2023-06-6T00:00:00",
+            "versionDescription": "Minor bug fixes"
+        },
+        {
+            "beta": false,
+            "bundleIdentifier": "com.ubisoft.raymanair",
+            "developerName": "Ubisoft",
+            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/RaymanMini-1.4.4.ipa",
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWFh24B1Miwr4ICW_Ab8L-HKv-BgzIAM8F8A&s",
+            "localizedDescription": "Rayman has been shrunk to the size of an ant! To undo this spell, insects, mushrooms, leaves, and other plants will be your allies as you find your way through a wonderful, macro-photographic world.\n\nFrom a gorgeous river to a spider nest or the deep recesses of a tree, Rayman Mini thrusts players into a rich, natural environment through exciting 48 levels.\n\nRayman Mini is a runner platforming game for the whole family! It offers a fun, fast-paced experience that lets players set their own pace. Go for a simple run or try the challenge of getting the perfect score!\n\nTo get through this super-sized world, it’s all about getting the right rhythm in the quest for the perfect flow. Use your honed reflexes, memorize the maps and replay the level as many times as you want… who knows, you might just find some hidden secrets!\n\nChoose between 3 characters and unlock tons of different costumes to customize your experience.\n\nThis is just the beginning of your Rayman Mini journey… Stay tuned for more miniaturized fun!",
+            "name": "Rayman Mini",
+            "screenshotURLs": [
+                "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7zKPzOPLTjecj4nPmoRFvS/94bba06630af9d2172b2cf9694c07694/ubicom-rayman_mini-page_meta-THUMB-960x540.jpg",
+                "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/62VH8dFKrRIXe0Ppi9k5MY/cc40ccb4bc5d68f0c54db9f8f50854b5/raymini-ubicom-game_info-03-epic_bosses.jpg",
+                "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6UGhgksAblxF7r39H9FLoX/351679a599a6ce9b045147475609b4f9/raymini-ubicom-game_info-02-perfect_flow.jpg"
+            ],
+            "size": 2184796,
+            "subtitle": "New epic journey for your hero",
+            "tintColor": "018084",
+            "version": "1.4.4",
+            "versionDate": "2023-10-24T00:00:00",
+            "versionDescription": "Various bug fixes and performance improvements"
+        },
+        {
+            "beta": false,
             "bundleIdentifier": "com.headupgames.bridgeconstructor-arcade",
             "developerName": "Headup GmbH",
             "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/Bridge_Constr+-13.1.662.ipa",
@@ -17,7 +97,7 @@
             "subtitle": "The #1 bridge buidling game",
             "tintColor": "018084",
             "version": "13.1",
-            "versionDate": "2024-09-14T00:00:00",
+            "versionDate": "2024-09-12T00:00:00",
             "versionDescription": "- tutorial improvements"
         },
         {
@@ -43,11 +123,11 @@
         {
             "beta": false,
             "bundleIdentifier": "nt.nb.ios",
-            "developerName": "Null's Team",
+            "developerName": "Nulls Team",
             "downloadURL": "https://dnull.xyz/latest_bs_i",
             "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
-            "localizedDescription": "Main Features:\n\n    Clubs\n    Multiplayer\n    Ranked Mode competition\n    Friend List\n    Global and Local leaderboards\n    Special Offers are available in         the Shop\n    All Brawlers can be unlocked\n    All skins, sprays, pins, gadgets, star powers, gears and hypercharges are available to use\n    Null’s Connect\n    Replays\n    Brawl TV\n    Brawl Pass rewards are available\n    Friendly battles\n    Exclusive settings for friendly battles\n    Classic, special and hidden gamemodes are available to play\n    Map Maker\n    Exclusive modifiers\n",
-            "name": "Null's Brawl",
+            "localizedDescription": "Nulls Brawl is a modified version of the popular game Brawl Stars, tailored specifically for iOS devices. This private server offers an enhanced gaming experience with unlimited resources, unlocked brawlers, and exclusive features not available in the official game.\n\nUnlimited Resources: Enjoy infinite gems and coins to upgrade your brawlers and unlock new content.\n\nAll Brawlers Unlocked: Access every brawler from the start, including the latest additions like Epic Shade and Mythic Juju.\n\nExclusive Skins: Try out all skins in Null’s Brawl with Shade and Juju, featuring the exclusive Angels & Demons collection and other unique collaborations.\n\nReal-Time PvP: Battle against other players in various game modes, just like in the official version.\n\nRegular Updates: Experience new content and features alongside official game updates.\n\niOS Compatibility: Designed to work smoothly on iPhones and iPads without jailbreaking.\n\nAd-Free Gameplay: Enjoy uninterrupted gaming sessions without any advertisements.\n\nCustom Maps and Skins: Create and share your own maps and skins with the community.",
+            "name": "Nulls Brawl",
             "screenshotURLs": [
                 "https://nullsbrawl.de/wp-content/uploads/2024/03/Nulls-Brawl-Larry-und-Lawrie.jpg",
                 "https://imag.malavida.com/mvimgbig/download-fs/nulls-brawl-22995-2.jpg",
@@ -57,8 +137,8 @@
             "subtitle": "Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.",
             "tintColor": "018084",
             "version": "58.279",
-            "versionDate": "2024-10-24T14:00:00-07:00",
-            "versionDescription": ""
+            "versionDate": "2024-10-24T00:00:00",
+            "versionDescription": "New Brawlers: Introducing Shade (Epic) and Juju (Mythic), both bringing fresh skills to the battlefield.\n\nSeason 32 – “Angels vs. Demons”: Battle in an epic celestial showdown where divine forces clash with demonic powers.\n\nPreview of Season 33 – “Starr Toon Studios 2”: Get a sneak peek at the upcoming movie-making mayhem where you’re the star of the show.\n\nTrophy System: Remains consistent with previous versions for stable progression.\n\nVisual Updates: Enhanced rank visuals and leaderboard design for better clarity.\n\nEnhanced Features: New sprays and interactive features for more engaging gameplay."
         },
         {
             "beta": false,
@@ -66,7 +146,7 @@
             "developerName": "Null's Team",
             "downloadURL": "https://dnull.xyz/latest_cr_i",
             "iconURL": "https://nulls.gg/assets/img/nr-icon.png",
-            "localizedDescription": "Main Features:\n\n    Clans\n    PvP\n    2v2\n    Special, party and friendly gamemodes\n    Null’s Legacy gamemode with our own custom cards\n    Special Offers are available in             the Shop\n    Global and Local leaderboards\n    Trophy Road\n    All new cards, chests, arenas, \n    tower skins\n    Replays\n    Null’s Connect\n    Champions\n",
+            "localizedDescription": "Nulls Royale is a private server for Clash Royale, a popular mobile game developed by Supercell. It offers various features and advantages for players compared to the official game servers.\n\nFunction:\n\nPrivate Server: Null's Royale operates on separate servers independent of the official Clash Royale servers.\n\nModified Gameplay: It provides modified features, including unlimited gems, gold, cards, and chests.\n\nCustom Events: Null's Royale introduces unique and customized events not available in the official game.\nCharacteristics:\n\nUnlimited Resources: Players can access unlimited gems, gold, and cards, enabling them to level up and progress faster.\n\nCustom Cards: Null's Royale features exclusive cards that are not available in the original game, allowing for a diverse and customized gameplay experience.\n\nReal-time Battles: Users can engage in real-time battles with other players on the private server.\n\nStable and Secure: The server is designed to provide a stable and secure gaming environment without any significant connectivity issues or security risks.\nHighlights:\n\nExclusive Content: The private server gives players access to exclusive cards and features not found in the official game, making gameplay more exciting and unpredictable.\n\nFaster Progression: With unlimited resources, players can upgrade cards and unlock new content at a much faster pace, allowing them to reach higher levels more quickly.\n\nCustomized Gameplay: Null's Royale offers modified events and gameplay mechanics, providing a fresh and unique experience compared to the original Clash Royale.\nAdvantages:\n\nEnhanced Gameplay: The ability to access unlimited resources and unique content adds a new dimension to the game, making it more enjoyable and compelling.\n\nQuicker Progress: Null's Royale enables players to progress faster, eliminating the need to spend significant time or money on in-app purchases.\n\nExperimentation and Testing: The private server allows players to try out different strategies, card combinations, and game features without any limitations or risks.",
             "name": "Null's Roayle",
             "screenshotURLs": [
                 "https://image.winudf.com/v2/user/admin/YWRtaW5fU2NyZWVuc2hvdF8yMDIyMDQxNC0xNTI0MDcucG5nXzE2NDk5MjEyMTI4MDc/screen-0.jpg?fakeurl=1&type=.jpg",
@@ -77,8 +157,8 @@
             "subtitle": "Null’s Royale is an unofficial game server with unlimited gems and gold.",
             "tintColor": "018084",
             "version": "8.256.22",
-            "versionDate": "2024-10-24T14:00:00-07:00",
-            "versionDescription": ""
+            "versionDate": "2024-10-24T00:00:00",
+            "versionDescription": "OCTOBER UPDATE IS HERE!\n\n• NEW CHAMPION: Goblinstein - a melee monster\nwith a stunning doctor sidekick!\n\n• Electro Dragon is getting an Evolution with infinite chain lightning!\n\n• Lucky Drops Rework - with new reward types and more places to find them!\n\n• Improved Pass Royale rewards for both Free &\nDiamond Pass! Continue earning rewards even\nafter you complete the pass!\n\n• Various bug fixes and improvements."
         },
         {
             "beta": false,
@@ -86,7 +166,7 @@
             "developerName": "Null's Team",
             "downloadURL": "https://dnull.xyz/latest_coc_i",
             "iconURL": "https://nulls.gg/assets/img/nc-icon.png",
-            "localizedDescription": "Main Features:\n\n    Clans\n    PvP and PvE\n    Challenges and self-attacking\n    Clan Wars\n    Commands\n    Siege Machines\n    Builder Base\n    Clan Capital\n    TH 15\n    Null’s Connect\n    Super Troops\n    Pets\n\nSelf-attacks and Friendly Challenges are not available for 24h during you choose new layout or editing current layout.\n",
+            "localizedDescription": "Nulls Clash is a free private server version of the famous Clash of Clans. It features everything the original game offers while providing unlimited resources and free content, so you can now build, train, and upgrade the way you want and focus on strategies.",
             "name": "Null's Clash",
             "screenshotURLs": [
                 "https://image.winudf.com/v2/image1/bnVsbHNjbGFzaC5uaWdodC5yZWxfMTY2NzI3NTU3MV8wOTk/screen-2.jpg?fakeurl=1&type=.jpg",
@@ -97,21 +177,21 @@
             "subtitle": "Null’s Clash is an unofficial game server with unlimited gems and gold.",
             "tintColor": "018084",
             "version": "16.386.9",
-            "versionDate": "2024-10-24T14:00:00-07:00",
-            "versionDescription": ""
+            "versionDate": "2024-10-24T00:00:00",
+            "versionDescription": "Update to version 16.0.8\nNew 16th level town hall\nBlacksmith and equipment for heroes\nNew pet: Spirit Fox\nNew warrior: Root Rider\nNew levels"
         },
         {
             "beta": false,
             "bundleIdentifier": "bsd.suitcase.release",
             "developerName": "heedge",
-            "downloadURL": "https://bsdbrawl.com/bsd_brawl_v58.279_(27).ipa",
+            "downloadURL": "https://storage.bsdbrawl.com/bsd_brawl_v58.279_(27).ipa",
             "iconURL": "https://play-lh.googleusercontent.com/VUdLhkbTpT6nv1BxCV-c-YQiaiF_muL1o0h3BZ3LD0UnOU03YcaGBVZTnR82_RgtHXY=s96",
             "localizedDescription": "BSD Brawl is a modified version of Brawl Stars, featuring a MOD menu to customize and personalize the Brawl Stars to your taste. It’s also known as Brawl Stars Datamines. You can change the FPS and graphics according to your device, select the server with the best ping, check your brawling stats, change the background & theme, disable highlights after the battle, unlock all pins for chats, and much more.\n\nIt can change the brawler skins visually. These skin models & texture changes will only appear for you on your device while other players can’t see these changes, because it’s only client-side changes. It also prevents you from getting banned, and you can play on official Brawl Stars servers with your main account. The new versions are regularly released to keep up with the official BS’s latest updates, fix bugs if any, and add new MOD features.",
             "name": "BSD Brawl",
             "screenshotURLs": [
                 "https://dogas.info/wp-content/uploads/2024/03/BSD-Brawl-apk-latest-version.jpg",
                 "https://apkrabi.com/uploads/2024/1/bsd-brawl-4.jpg",
-                "https://i.ytimg.com/vi/Ee6Gk91P_v0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDQw9QCDj7Q0QGRxGTC1C45hxZyVA"
+                "https://brawlmod.net/wp-content/uploads/2024/05/bsd-brawl-stars-2_result.webp"
             ],
             "size": 2184796,
             "subtitle": "BSD Brawl is a modified version of Brawl Stars",
