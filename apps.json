@@ -4,7 +4,7 @@
             "beta": false,
             "bundleIdentifier": "org.resonance.store",
             "developerName": "Resonance Team",
-            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/org.resonance.store_2.3_082724.ipa",
+            "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.3/org.resonance.store_2.3_082724.ipa",
             "iconURL": "https://raw.githubusercontent.com/TrollApps-Team/.github/main/TrollAppsIcon-macOS.png",
             "localizedDescription": "TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.",
             "name": "TrollApps",
@@ -102,32 +102,12 @@
         },
         {
             "beta": false,
-            "bundleIdentifier": "com.dinopoloclub.minimotorways",
-            "developerName": "Dinosaur Polo Club",
-            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/Mini_Motorways-1.14.1.ipa",
-            "iconURL": "https://image.winudf.com/v2/image1/MjE3OTI3MzVfMTcxODE2MzgwOV8wNjY/screen-0.png?fakeurl=1&type=png",
-            "localizedDescription": "Have you ever been stuck in traffic and wished you could do something to fix it? In Mini Motorways, the city’s traffic problems are in your hands.\n\nFrom the makers of Mini Metro, Mini Motorways is a game about drawing the roads that drive a growing city. Build a road network, one road at a time, to create a bustling metropolis. Redesign your city to keep the traffic flowing, and carefully manage upgrades to meet the changing demands. How long can you keep the cities of the world moving?\n\nFeatures:\n\n• Draw roads in dynamic cities that grow and change - every game is unique!\n\n• Explore stunning maps inspired by cities all around the world.\n\n• Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!\n\n• Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.\n\n• Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.\n\n• Select different colour palettes on every map including colourblind and night modes.\n\n• Relax to a responsive soundtrack from Disasterpeace that grows along with your city.\n\n• Unlock new maps and achievements as you achieve mastery.\n\n• Export GIFs of your city layouts to share with your friends.\n\n• Compete against other players in Daily and Weekly Challenges.\n\n• Compatible with Siri Remote, Bluetooth and MFi controllers.",
-            "name": "Mini Motorways",
-            "screenshotURLs": [
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c4/4f/46/c44f4698-fade-459f-585c-7c894b74cada/74d9d7a6-dd59-490d-a415-53a2220d77b1_English__U0028US_U0029-AppleTV-3840x2160-EE-Update.png/643x0w.jpg",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/72/2e/f5/722ef5b6-7bcc-f6f7-1cf3-c9cd26038bd7/cdaf3237-bc9d-4d81-acfb-8aafd73ba080_Deutsch-iPad_12.9_U0027_U0027-2732x2048-EE-Update.png/643x0w.jpg",
-                "https://www.appgefahren.de/wp-content/uploads/2024/06/Mini-Motorways-vancouver-karte.jpg"
-            ],
-            "size": 2184796,
-            "subtitle": "Draw roads that drive the city",
-            "tintColor": "018084",
-            "version": "1.14.1",
-            "versionDate": "2024-06-11T00:00:00",
-            "versionDescription": "Sea to Sky Update\n\nPack your umbrella and hiking boots because we're off to Vancouver in our latest update to Mini Motorways! Nestled amongst the rugged Canadian coast of British Columbia, this coastal metropolis is home to narrow waterways, rugged mountains and lush parks. It’s up to you how you manage the city’s unique geography to keep the traffic along these Maple Motorways.\n\nThis update to Mini Motorways includes:\n\n• A brand new map! Take a trip to the west coast of Canada and explore the highly-requested city of Vancouver, our latest Mini Motorways map.\n\n• New Achievements, Daily Challenges, Weekly Challenges, and City Challenges.\n\n• Various minor bug fixes and performance improvements.\n\n• Updated in-game button with a new look and feel."
-        },
-        {
-            "beta": false,
             "bundleIdentifier": "nt.nb.ios",
-            "developerName": "Nulls Team",
+            "developerName": "Null's Team",
             "downloadURL": "https://dnull.xyz/latest_bs_i",
             "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
-            "localizedDescription": "Nulls Brawl is a modified version of the popular game Brawl Stars, tailored specifically for iOS devices. This private server offers an enhanced gaming experience with unlimited resources, unlocked brawlers, and exclusive features not available in the official game.\n\nUnlimited Resources: Enjoy infinite gems and coins to upgrade your brawlers and unlock new content.\n\nAll Brawlers Unlocked: Access every brawler from the start, including the latest additions like Epic Shade and Mythic Juju.\n\nExclusive Skins: Try out all skins in Null’s Brawl with Shade and Juju, featuring the exclusive Angels & Demons collection and other unique collaborations.\n\nReal-Time PvP: Battle against other players in various game modes, just like in the official version.\n\nRegular Updates: Experience new content and features alongside official game updates.\n\niOS Compatibility: Designed to work smoothly on iPhones and iPads without jailbreaking.\n\nAd-Free Gameplay: Enjoy uninterrupted gaming sessions without any advertisements.\n\nCustom Maps and Skins: Create and share your own maps and skins with the community.",
-            "name": "Nulls Brawl",
+            "localizedDescription": "Null's Brawl is a modified version of the popular game Brawl Stars, tailored specifically for iOS devices. This private server offers an enhanced gaming experience with unlimited resources, unlocked brawlers, and exclusive features not available in the official game.\n\nUnlimited Resources: Enjoy infinite gems and coins to upgrade your brawlers and unlock new content.\n\nAll Brawlers Unlocked: Access every brawler from the start, including the latest additions like Epic Shade and Mythic Juju.\n\nExclusive Skins: Try out all skins in Null’s Brawl with Shade and Juju, featuring the exclusive Angels & Demons collection and other unique collaborations.\n\nReal-Time PvP: Battle against other players in various game modes, just like in the official version.\n\nRegular Updates: Experience new content and features alongside official game updates.\n\niOS Compatibility: Designed to work smoothly on iPhones and iPads without jailbreaking.\n\nAd-Free Gameplay: Enjoy uninterrupted gaming sessions without any advertisements.\n\nCustom Maps and Skins: Create and share your own maps and skins with the community.",
+            "name": "Null's Brawl",
             "screenshotURLs": [
                 "https://nullsbrawl.de/wp-content/uploads/2024/03/Nulls-Brawl-Larry-und-Lawrie.jpg",
                 "https://imag.malavida.com/mvimgbig/download-fs/nulls-brawl-22995-2.jpg",
@@ -136,9 +116,9 @@
             "size": 2184796,
             "subtitle": "Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.",
             "tintColor": "018084",
-            "version": "58.279",
+            "version": "59.197",
             "versionDate": "2024-10-24T00:00:00",
-            "versionDescription": "New Brawlers: Introducing Shade (Epic) and Juju (Mythic), both bringing fresh skills to the battlefield.\n\nSeason 32 – “Angels vs. Demons”: Battle in an epic celestial showdown where divine forces clash with demonic powers.\n\nPreview of Season 33 – “Starr Toon Studios 2”: Get a sneak peek at the upcoming movie-making mayhem where you’re the star of the show.\n\nTrophy System: Remains consistent with previous versions for stable progression.\n\nVisual Updates: Enhanced rank visuals and leaderboard design for better clarity.\n\nEnhanced Features: New sprays and interactive features for more engaging gameplay."
+            "versionDescription": "Finally: Null's Brawl has been updated with three new brawlers, such as Meeple and Ollie! Version number is also changed: 59.197.\n6 new hypercharges, 2v2 gamemodes and other stuff."
         },
         {
             "beta": false,
@@ -146,8 +126,8 @@
             "developerName": "Null's Team",
             "downloadURL": "https://dnull.xyz/latest_cr_i",
             "iconURL": "https://nulls.gg/assets/img/nr-icon.png",
-            "localizedDescription": "Nulls Royale is a private server for Clash Royale, a popular mobile game developed by Supercell. It offers various features and advantages for players compared to the official game servers.\n\nFunction:\n\nPrivate Server: Null's Royale operates on separate servers independent of the official Clash Royale servers.\n\nModified Gameplay: It provides modified features, including unlimited gems, gold, cards, and chests.\n\nCustom Events: Null's Royale introduces unique and customized events not available in the official game.\nCharacteristics:\n\nUnlimited Resources: Players can access unlimited gems, gold, and cards, enabling them to level up and progress faster.\n\nCustom Cards: Null's Royale features exclusive cards that are not available in the original game, allowing for a diverse and customized gameplay experience.\n\nReal-time Battles: Users can engage in real-time battles with other players on the private server.\n\nStable and Secure: The server is designed to provide a stable and secure gaming environment without any significant connectivity issues or security risks.\nHighlights:\n\nExclusive Content: The private server gives players access to exclusive cards and features not found in the official game, making gameplay more exciting and unpredictable.\n\nFaster Progression: With unlimited resources, players can upgrade cards and unlock new content at a much faster pace, allowing them to reach higher levels more quickly.\n\nCustomized Gameplay: Null's Royale offers modified events and gameplay mechanics, providing a fresh and unique experience compared to the original Clash Royale.\nAdvantages:\n\nEnhanced Gameplay: The ability to access unlimited resources and unique content adds a new dimension to the game, making it more enjoyable and compelling.\n\nQuicker Progress: Null's Royale enables players to progress faster, eliminating the need to spend significant time or money on in-app purchases.\n\nExperimentation and Testing: The private server allows players to try out different strategies, card combinations, and game features without any limitations or risks.",
-            "name": "Null's Roayle",
+            "localizedDescription": "Null's Royale is a private server for Clash Royale, a popular mobile game developed by Supercell. It offers various features and advantages for players compared to the official game servers.\n\nFunction:\n\nPrivate Server: Null's Royale operates on separate servers independent of the official Clash Royale servers.\n\nModified Gameplay: It provides modified features, including unlimited gems, gold, cards, and chests.\n\nCustom Events: Null's Royale introduces unique and customized events not available in the official game.\nCharacteristics:\n\nUnlimited Resources: Players can access unlimited gems, gold, and cards, enabling them to level up and progress faster.\n\nCustom Cards: Null's Royale features exclusive cards that are not available in the original game, allowing for a diverse and customized gameplay experience.\n\nReal-time Battles: Users can engage in real-time battles with other players on the private server.\n\nStable and Secure: The server is designed to provide a stable and secure gaming environment without any significant connectivity issues or security risks.\nHighlights:\n\nExclusive Content: The private server gives players access to exclusive cards and features not found in the official game, making gameplay more exciting and unpredictable.\n\nFaster Progression: With unlimited resources, players can upgrade cards and unlock new content at a much faster pace, allowing them to reach higher levels more quickly.\n\nCustomized Gameplay: Null's Royale offers modified events and gameplay mechanics, providing a fresh and unique experience compared to the original Clash Royale.\nAdvantages:\n\nEnhanced Gameplay: The ability to access unlimited resources and unique content adds a new dimension to the game, making it more enjoyable and compelling.\n\nQuicker Progress: Null's Royale enables players to progress faster, eliminating the need to spend significant time or money on in-app purchases.\n\nExperimentation and Testing: The private server allows players to try out different strategies, card combinations, and game features without any limitations or risks.",
+            "name": "Null's Royale",
             "screenshotURLs": [
                 "https://image.winudf.com/v2/user/admin/YWRtaW5fU2NyZWVuc2hvdF8yMDIyMDQxNC0xNTI0MDcucG5nXzE2NDk5MjEyMTI4MDc/screen-0.jpg?fakeurl=1&type=.jpg",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2D-xaq8Ob85oNKui5cXcDdRD1q3tmHnz_Gg&s",
@@ -166,7 +146,7 @@
             "developerName": "Null's Team",
             "downloadURL": "https://dnull.xyz/latest_coc_i",
             "iconURL": "https://nulls.gg/assets/img/nc-icon.png",
-            "localizedDescription": "Nulls Clash is a free private server version of the famous Clash of Clans. It features everything the original game offers while providing unlimited resources and free content, so you can now build, train, and upgrade the way you want and focus on strategies.",
+            "localizedDescription": "Null's Clash is a free private server version of the famous Clash of Clans. It features everything the original game offers while providing unlimited resources and free content, so you can now build, train, and upgrade the way you want and focus on strategies.",
             "name": "Null's Clash",
             "screenshotURLs": [
                 "https://image.winudf.com/v2/image1/bnVsbHNjbGFzaC5uaWdodC5yZWxfMTY2NzI3NTU3MV8wOTk/screen-2.jpg?fakeurl=1&type=.jpg",
@@ -185,7 +165,7 @@
             "bundleIdentifier": "bsd.suitcase.release",
             "developerName": "heedge",
             "downloadURL": "https://storage.bsdbrawl.com/bsd_brawl_v58.279_(27).ipa",
-            "iconURL": "https://play-lh.googleusercontent.com/VUdLhkbTpT6nv1BxCV-c-YQiaiF_muL1o0h3BZ3LD0UnOU03YcaGBVZTnR82_RgtHXY=s96",
+            "iconURL": "https://play-lh.googleusercontent.com/qMI5vUc_ECxZdWaCiPuRWAOVlxf2H8GzmRbChPr2915xmyAYtIepSz98opcZCJTjNw=s96",
             "localizedDescription": "BSD Brawl is a modified version of Brawl Stars, featuring a MOD menu to customize and personalize the Brawl Stars to your taste. It’s also known as Brawl Stars Datamines. You can change the FPS and graphics according to your device, select the server with the best ping, check your brawling stats, change the background & theme, disable highlights after the battle, unlock all pins for chats, and much more.\n\nIt can change the brawler skins visually. These skin models & texture changes will only appear for you on your device while other players can’t see these changes, because it’s only client-side changes. It also prevents you from getting banned, and you can play on official Brawl Stars servers with your main account. The new versions are regularly released to keep up with the official BS’s latest updates, fix bugs if any, and add new MOD features.",
             "name": "BSD Brawl",
             "screenshotURLs": [
@@ -196,7 +176,7 @@
             "size": 2184796,
             "subtitle": "BSD Brawl is a modified version of Brawl Stars",
             "tintColor": "018084",
-            "version": "58.279",
+            "version": "59.197",
             "versionDate": "2024-09-24T14:22:04-00",
             "versionDescription": "• Added the ability to change age, unlocking the text chat\n\n• Differing in color (pink) clone Leon with special walking effects to distinguish him from a real\n\n• Added the ability to enable the inaccessible Modifier \"Mutations\", which will work in a friendly game\n\n• Returned the opportunity to invite players in a friendly game, not being the leader of the room\n\n• Returned the ability to use all buttons in readiness mode\n\n• Returned the ability to visually install a overflowing name in the profile, as with the purchased brace pass"
         },
@@ -256,7 +236,7 @@
             "size": 2184796,
             "subtitle": "A private server as the rebirth of Brawl Stars",
             "tintColor": "018084",
-            "version": "44.242",
+            "version": "45.225",
             "versionDate": "2024-10-11T13:58:00",
             "versionDescription": ""
         }
