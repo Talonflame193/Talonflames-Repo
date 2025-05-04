@@ -2,26 +2,6 @@
     "apps": [
         {
             "beta": false,
-            "bundleIdentifier": "org.resonance.store",
-            "developerName": "Resonance Team",
-            "downloadURL": "https://github.com/TheResonanceTeam/TrollApps/releases/download/2.3/org.resonance.store_2.3_082724.ipa",
-            "iconURL": "https://raw.githubusercontent.com/TrollApps-Team/.github/main/TrollAppsIcon-macOS.png",
-            "localizedDescription": "TrollApps is an alternative to the iOS App Store for TrollStore users. TrollApps allows users to download apps from repositories and install them directly in TrollStore. TrollApps works on iOS 14.0 and up; make sure to be on the latest version of TrollStore.",
-            "name": "TrollApps",
-            "screenshotURLs": [
-                "https://media.idownloadblog.com/wp-content/uploads/2022/11/TrollApps.jpg",
-                "https://media.idownloadblog.com/wp-content/uploads/2022/11/TrollApps-v1.1-with-refreshed-UI.jpg",
-                "https://pbs.twimg.com/media/FpcL8ABXsAEClU1?format=jpg&name=4096x4096"
-            ],
-            "size": 2184796,
-            "subtitle": "App Store alternative for TrollStore",
-            "tintColor": "018084",
-            "version": "2.3",
-            "versionDate": "2020-03-24T14:00:00-07:00",
-            "versionDescription": "Skipped 2.2\n\nUpdated acknowledgements\n\nMinor UI improvements (fixed some typos and missing localizations)\n\nAll previous changes from 2.2/2.3 betas:\n\nFixed bottom sheet appearing in a small size with improper width on both \"Whats New\" sheet, and the queue.\n\nFixed \"Browse\" tab showing up improperly on iPad\n\nAdded text when the queue is processing explaining that installs may look frozen for large apps, but to allow a minute for processing.\n\nAdded a few (very small, 0.3 seconds) pauses before uninstalls / installs to allow for animations to properly play\n\nApp icons no longer flicker in the install queue\n\nFixed queue sheet UI issues\n\nFixed application descriptions not being expandable\n\nFixed a crash that would result when attempting to install large ipa files\n\nFixed multiple apps showing \"QUEUED\" when adding one app to the queue if they shared the same bundle ID\n\nIf you're coming from 2.1 or earlier, you may notice a few new additions:\n\nInstall queue\nAbility to uninstall apps\n\"What's New\" popup when opening the app after an update\nCompact sources view option for users with many repos\nYou can now add sources via the clipboard"
-        },
-        {
-            "beta": false,
             "bundleIdentifier": "com.sp67.flero",
             "developerName": "speedyfriend67 ",
             "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/flero.v0.0.6.ipa",
@@ -116,9 +96,9 @@
             "size": 2184796,
             "subtitle": "Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.",
             "tintColor": "018084",
-            "version": "59.197",
-            "versionDate": "2024-10-24T00:00:00",
-            "versionDescription": "Finally: Null's Brawl has been updated with three new brawlers, such as Meeple and Ollie! Version number is also changed: 59.197.\n6 new hypercharges, 2v2 gamemodes and other stuff."
+            "version": "61.249",
+            "versionDate": "2025-05-01T00:00:00",
+            "versionDescription": "First Ultra Legendary brawler: Null’s Brawl Kaze, with two different play styles in one brawler.\n\nNew Mythic brawler: Null’s Brawl Jae-yong, who can switch between Work Mode and Party Mode.\n\nBrawl Arena: A brand-new 3v3 game mode, just like a MOBA game.\n    \nBattle for Katana Kingdom: A four-part event with special rewards to win.\n\n60 Wasabi Powers for all brawlers, with four different strength levels.\n\n8 New Hypercharges to make your gameplay even stronger.\n\nGadget cooldown timers are now visible during battles.\n\nLots of new game modes: Samurai Smash, Mega Buffet, Oni Hunt, and Daily Contests.\n\n10 New skins, including Fruity Kaze and Jammin’ Jae.\n\nPerformance upgrades and bug fixes to make the game smoother."
         },
         {
             "beta": false,
@@ -136,8 +116,8 @@
             "size": 2184796,
             "subtitle": "Null’s Royale is an unofficial game server with unlimited gems and gold.",
             "tintColor": "018084",
-            "version": "8.256.22",
-            "versionDate": "2024-10-24T00:00:00",
+            "version": "10.455.11",
+            "versionDate": "2025-04-28T00:00:00",
             "versionDescription": "OCTOBER UPDATE IS HERE!\n\n• NEW CHAMPION: Goblinstein - a melee monster\nwith a stunning doctor sidekick!\n\n• Electro Dragon is getting an Evolution with infinite chain lightning!\n\n• Lucky Drops Rework - with new reward types and more places to find them!\n\n• Improved Pass Royale rewards for both Free &\nDiamond Pass! Continue earning rewards even\nafter you complete the pass!\n\n• Various bug fixes and improvements."
         },
         {
@@ -156,49 +136,9 @@
             "size": 2184796,
             "subtitle": "Null’s Clash is an unofficial game server with unlimited gems and gold.",
             "tintColor": "018084",
-            "version": "16.386.9",
-            "versionDate": "2024-10-24T00:00:00",
+            "version": "17.126.6",
+            "versionDate": "2025-05-02T00:00:00",
             "versionDescription": "Update to version 16.0.8\nNew 16th level town hall\nBlacksmith and equipment for heroes\nNew pet: Spirit Fox\nNew warrior: Root Rider\nNew levels"
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "bsd.suitcase.release",
-            "developerName": "heedge",
-            "downloadURL": "https://storage.bsdbrawl.com/bsd_brawl_v58.279_(27).ipa",
-            "iconURL": "https://play-lh.googleusercontent.com/qMI5vUc_ECxZdWaCiPuRWAOVlxf2H8GzmRbChPr2915xmyAYtIepSz98opcZCJTjNw=s96",
-            "localizedDescription": "BSD Brawl is a modified version of Brawl Stars, featuring a MOD menu to customize and personalize the Brawl Stars to your taste. It’s also known as Brawl Stars Datamines. You can change the FPS and graphics according to your device, select the server with the best ping, check your brawling stats, change the background & theme, disable highlights after the battle, unlock all pins for chats, and much more.\n\nIt can change the brawler skins visually. These skin models & texture changes will only appear for you on your device while other players can’t see these changes, because it’s only client-side changes. It also prevents you from getting banned, and you can play on official Brawl Stars servers with your main account. The new versions are regularly released to keep up with the official BS’s latest updates, fix bugs if any, and add new MOD features.",
-            "name": "BSD Brawl",
-            "screenshotURLs": [
-                "https://dogas.info/wp-content/uploads/2024/03/BSD-Brawl-apk-latest-version.jpg",
-                "https://apkrabi.com/uploads/2024/1/bsd-brawl-4.jpg",
-                "https://brawlmod.net/wp-content/uploads/2024/05/bsd-brawl-stars-2_result.webp"
-            ],
-            "size": 2184796,
-            "subtitle": "BSD Brawl is a modified version of Brawl Stars",
-            "tintColor": "018084",
-            "version": "59.197",
-            "versionDate": "2024-09-24T14:22:04-00",
-            "versionDescription": "• Added the ability to change age, unlocking the text chat\n\n• Differing in color (pink) clone Leon with special walking effects to distinguish him from a real\n\n• Added the ability to enable the inaccessible Modifier \"Mutations\", which will work in a friendly game\n\n• Returned the opportunity to invite players in a friendly game, not being the leader of the room\n\n• Returned the ability to use all buttons in readiness mode\n\n• Returned the ability to visually install a overflowing name in the profile, as with the purchased brace pass"
-        },
-        {
-            "beta": false,
-            "bundleIdentifier": "AlexisBarreyat.BeReal",
-            "developerName": "yandevelop",
-            "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/BeReal.1.21.4+com.yan.bea_1.3.6.ipa",
-            "iconURL": "https://upload.wikimedia.org/wikipedia/en/4/40/BeReal_logo.png?20220421171545",
-            "localizedDescription": "View BeReals without posting your own\nUpload BeReals from the camera roll:\n- Post on time, even if you're posting late\n- Set a custom location\n- Set a custom retake count\n- Add what you're currently playing or                  add a song\nDownload BeReals",
-            "name": "Bea",
-            "screenshotURLs": [
-                "https://media.havoc.app/64cf6f6b5e96af954cf67dc2",
-                "https://media.havoc.app/647de2127e4f48eaaf1b5cd7",
-                "https://media.havoc.app/647de2057e4f48eaaf1b5c48"
-            ],
-            "size": 2184796,
-            "subtitle": "Bea is an iOS tweak that adds various enhancements to the BeReal App.",
-            "tintColor": "018084",
-            "version": "1.3.6",
-            "versionDate": "2024-05-29T00:00:00",
-            "versionDescription": "\nBeReal removed the native Unblur function utilized by Bea starting from version 1.22. Bea will still work on versions up to 2.14.2, however you won't be able to react and comment on BeReals.\nIf you are unable to post and get an API error, try posting without setting a caption. This should fix the issue in the meantime\nBug fixes\n\nFix login issues when sideloading via a service that changes the bundle id of BeReal. to something else (e.g. AltStore, Sideloadly) #24, #42, #29\nMiscellaneous\n\nAdd warning for unsupported BeReal. versions (2.15+)"
         },
         {
             "beta": false,
@@ -236,8 +176,8 @@
             "size": 2184796,
             "subtitle": "A private server as the rebirth of Brawl Stars",
             "tintColor": "018084",
-            "version": "45.225",
-            "versionDate": "2024-10-11T13:58:00",
+            "version": "47.227",
+            "versionDate": "2025-04-30T13:58:00",
             "versionDescription": ""
         }
     ],
