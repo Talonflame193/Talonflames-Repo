@@ -1,0 +1,208 @@
+{
+  "name": "Talonflame's Repo",
+  "subtitle": "A repo by Talonflame",
+  "description": "Dm if you want any more apps being added to the repo",
+  "iconURL": "https://i.imgur.com/poFUouw.png",
+  "website": "https://talonflame.neocities.org/",
+  "patreonURL": "",
+  "tintColor": "#b496dc",
+  "featuredApps": [
+    "nt.nb.ios"
+  ],
+  "headerURL": "https://i.imgur.com/dvHv18Y.jpeg",
+  "apps": [
+    {
+      "name": "Flero",
+      "bundleIdentifier": "com.sp67.flero",
+      "marketplaceID": "",
+      "developerName": "speedyfriend67 ",
+      "subtitle": "No JB No JIT iOS Mod Menu for Geometry Dash",
+      "localizedDescription": "Well well well. The Best FREE gd iOS mod menu just arrived! It calls 'Flero Client' which has more than 50+ mods No jailbreak needed, no JIT NEEDED, User-Friendly ImGui UI! \n\nOur Top 5 Mods are\n\nClick Between Frame (now turned into Click On Steps)\n\nMenu shader (yes you can get menu shaders on iOS EXCLUSIVELY)\n\nIn-Game Texture Pack Switcher (High Graphics Support Coming Soon....)\n\nCustomizable Colors (icons, primary, trail, etc)\n\nClick Sounds! (You can import click packs!!)",
+      "iconURL": "https://flero.pages.dev/_app/immutable/assets/flero.C1k2Qq-1.png",
+      "tintColor": "#b496dc",
+      "category": "games",
+      "screenshots": [
+        "https://i.ytimg.com/vi/fCbnhxK9-tU/sddefault.jpg?v=673d6b07",
+        "https://i.ytimg.com/vi/_I7p-GTAG0I/maxresdefault.jpg",
+        "https://i.ytimg.com/vi/CYaDWYAFLIM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAolcjA30fbIih1BQds1Nu1TMs3RA"
+      ],
+      "versions": [
+        {
+          "version": "0.0.7",
+          "date": "2024-11-30T23:00:00+01:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/Talonflame193/Talonflames-Repo/releases/download/v1.0/flero-0.0.7-3.ipa",
+          "size": 158000000,
+          "buildVersion": "0.0.7-3",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Null's Brawl",
+      "bundleIdentifier": "nt.nb.ios",
+      "marketplaceID": "",
+      "developerName": "Null's Team",
+      "subtitle": "Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.",
+      "localizedDescription": "Null's Brawl is a modified version of the popular game Brawl Stars, tailored specifically for iOS devices. This private server offers an enhanced gaming experience with unlimited resources, unlocked brawlers, and exclusive features not available in the official game.\n\nUnlimited Resources: Enjoy infinite gems and coins to upgrade your brawlers and unlock new content.\n\nAll Brawlers Unlocked: Access every brawler from the start, including the latest additions like Epic Shade and Mythic Juju.\n\nExclusive Skins: Try out all skins in Null’s Brawl with Shade and Juju, featuring the exclusive Angels & Demons collection and other unique collaborations.\n\nReal-Time PvP: Battle against other players in various game modes, just like in the official version.\n\nRegular Updates: Experience new content and features alongside official game updates.\n\niOS Compatibility: Designed to work smoothly on iPhones and iPads without jailbreaking.\n\nAd-Free Gameplay: Enjoy uninterrupted gaming sessions without any advertisements.\n\nCustom Maps and Skins: Create and share your own maps and skins with the community.",
+      "iconURL": "https://nulls.gg/assets/img/nb-icon.png",
+      "tintColor": "#b496dc",
+      "category": "games",
+      "screenshots": [
+        "https://nullsbrawl.de/wp-content/uploads/2024/03/Nulls-Brawl-Larry-und-Lawrie.jpg",
+        "https://imag.malavida.com/mvimgbig/download-fs/nulls-brawl-22995-2.jpg",
+        "https://nullbrawl.org/wp-content/uploads/2024/07/Nullsbrawl-Android-768x346.webp"
+      ],
+      "versions": [
+        {
+          "version": "61.249",
+          "date": "2025-04-30T22:00:00+02:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://dnull.xyz/latest_bs_i",
+          "size": 794000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Null's Royale",
+      "bundleIdentifier": "nt.nr.ios",
+      "marketplaceID": "",
+      "developerName": "Null's Team",
+      "subtitle": "Null’s Royale is an unofficial game server with unlimited gems and gold.",
+      "localizedDescription": "Null's Royale is a private server for Clash Royale, a popular mobile game developed by Supercell. It offers various features and advantages for players compared to the official game servers.\n\nFunction:\n\nPrivate Server: Null's Royale operates on separate servers independent of the official Clash Royale servers.\n\nModified Gameplay: It provides modified features, including unlimited gems, gold, cards, and chests.\n\nCustom Events: Null's Royale introduces unique and customized events not available in the official game.\nCharacteristics:\n\nUnlimited Resources: Players can access unlimited gems, gold, and cards, enabling them to level up and progress faster.\n\nCustom Cards: Null's Royale features exclusive cards that are not available in the original game, allowing for a diverse and customized gameplay experience.\n\nReal-time Battles: Users can engage in real-time battles with other players on the private server.\n\nStable and Secure: The server is designed to provide a stable and secure gaming environment without any significant connectivity issues or security risks.\nHighlights:\n\nExclusive Content: The private server gives players access to exclusive cards and features not found in the official game, making gameplay more exciting and unpredictable.\n\nFaster Progression: With unlimited resources, players can upgrade cards and unlock new content at a much faster pace, allowing them to reach higher levels more quickly.\n\nCustomized Gameplay: Null's Royale offers modified events and gameplay mechanics, providing a fresh and unique experience compared to the original Clash Royale.\nAdvantages:\n\nEnhanced Gameplay: The ability to access unlimited resources and unique content adds a new dimension to the game, making it more enjoyable and compelling.\n\nQuicker Progress: Null's Royale enables players to progress faster, eliminating the need to spend significant time or money on in-app purchases.\n\nExperimentation and Testing: The private server allows players to try out different strategies, card combinations, and game features without any limitations or risks.",
+      "iconURL": "https://nulls.gg/assets/img/nr-icon.png",
+      "tintColor": "#b496dc",
+      "category": "games",
+      "screenshots": [
+        "https://image.winudf.com/v2/user/admin/YWRtaW5fU2NyZWVuc2hvdF8yMDIyMDQxNC0xNTI0MDcucG5nXzE2NDk5MjEyMTI4MDc/screen-0.jpg?fakeurl=1&type=.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2D-xaq8Ob85oNKui5cXcDdRD1q3tmHnz_Gg&s",
+        "https://image.winudf.com/v2/user/admin/YWRtaW5fU2NyZWVuc2hvdF8yMDIyMDQxNC0xNTI0MzIucG5nXzE2NDk5MjEyMTI0ODc/screen-2.jpg?fakeurl=1&type=.jpg"
+      ],
+      "versions": [
+        {
+          "version": "10.455.11",
+          "date": "2025-04-14T22:00:00+02:00",
+          "localizedDescription": "Season 46 content added\nNew emote\nNew tower skins\nNew banners\n\nThe super archer will appear at a later date.",
+          "downloadURL": "https://dnull.xyz/latest_cr_i",
+          "size": 713000000,
+          "buildVersion": "10.4555.11",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Null's Clash",
+      "bundleIdentifier": "nt.nc.ios",
+      "marketplaceID": "",
+      "developerName": "Null's Team",
+      "subtitle": "Null’s Clash is an unofficial game server with unlimited gems and gold.",
+      "localizedDescription": "Null's Clash is a free private server version of the famous Clash of Clans. It features everything the original game offers while providing unlimited resources and free content, so you can now build, train, and upgrade the way you want and focus on strategies.",
+      "iconURL": "https://nulls.gg/assets/img/nc-icon.png",
+      "tintColor": "#b496dc",
+      "category": "games",
+      "screenshots": [
+        "https://image.winudf.com/v2/image1/bnVsbHNjbGFzaC5uaWdodC5yZWxfMTY2NzI3NTU3MV8wOTk/screen-2.jpg?fakeurl=1&type=.jpg",
+        "https://sun9-22.userapi.com/s/v1/ig2/DrC7Fjbfjcg-TkkO8LMhclVLl-ZiL0irEBMgJEaW7mXaTJarm8rBlRmsaUlXJlrGA-t4qiZDqItJPouFyq6z8V6s.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,800x450&from=bu&u=AZqtt5PbvcVq2BiFat9kTfhwuFTNr57C4MoMWnxSK_o&cs=800x450",
+        "https://dl.memuplay.com/new_market/img/nullsclash.night.rel.sc3.2023-05-25-09-47-12.jpg"
+      ],
+      "versions": [
+        {
+          "version": "17.126.6",
+          "date": "2025-05-01T22:00:00+02:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://dnull.xyz/latest_coc_i",
+          "size": 351000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Retro Brawl",
+      "bundleIdentifier": "nt.rb.ios",
+      "marketplaceID": "",
+      "developerName": "Magic Team",
+      "subtitle": "The old version of Brawl Stars (2018)",
+      "localizedDescription": "Retro Brawl is the old version of Brawl Stars (2018). Online battles, 21 characters and star powers for them, clans, etc. are available on the server. Feel better times, from the old menu to the atmosphere",
+      "iconURL": "https://magicbrawl.gg/images/rb-icon.png",
+      "tintColor": "#b496dc",
+      "category": "games",
+      "screenshots": [
+        "https://imag.malavida.com/mvimgbig/download-fs/retro-brawl-31648-4.jpg",
+        "https://imag.malavida.com/mvimgbig/download-fs/retro-brawl-31648-3.jpg",
+        "https://imag.malavida.com/mvimgbig/download-fs/retro-brawl-31648-1.jpg"
+      ],
+      "versions": [
+        {
+          "version": "12.98",
+          "date": "2022-05-02T22:12:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://files.magic-servers.xyz/retrobrawl.ipa",
+          "size": 2184796,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Magic Brawl",
+      "bundleIdentifier": "mt.mb.ios",
+      "marketplaceID": "",
+      "developerName": "Magic Team",
+      "subtitle": "A private server as the rebirth of Brawl Stars",
+      "localizedDescription": "Magic Brawl is the rebirth of Brawl Stars and its best times! All content is available on the server: online battles, all the characters and everything. By downloading this server, you can get great pleasure from the updates, because we update the server every month!",
+      "iconURL": "https://magicbrawl.gg/images/mb-icon.png",
+      "tintColor": "#b496dc",
+      "category": "games",
+      "screenshots": [
+        "https://imag.malavida.com/mvimgbig/download-fs/magic-brawl-39725-14.jpg",
+        "https://imag.malavida.com/mvimgbig/download-fs/magic-brawl-39725-3.jpg",
+        "https://assets.apk.live/com.magics.brawl--41150-screenshot1.webp"
+      ],
+      "versions": [
+        {
+          "version": "47.227",
+          "date": "2025-04-30T11:58:00+02:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://files.magic-servers.xyz/mb.ipa",
+          "size": 2200000,
+          "buildVersion": null,
+          "minOSVersion": "11.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
